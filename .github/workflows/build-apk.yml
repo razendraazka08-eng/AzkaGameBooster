@@ -1,4 +1,3 @@
-
 name: Build AzkaGameBooster APK
 
 on:
@@ -35,4 +34,5 @@ jobs:
         with:
           name: AzkaGameBooster-APK
           path: "**/build/outputs/apk/debug/*.apk"
+
           
